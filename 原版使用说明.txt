@@ -1,5 +1,0 @@
-使用SolidWorks 2013或SolidWorks eDrawings及2013以上版本打开。相同类型的3维建模软件Creo（Pro/E）、Inventer、UG均可打开。另外，Altium Designer生成的3维PCB模型可直接导入SolidWords中装配使用。本模型没有使用SolidWorks自动的Photo View360插件与Photoshop、3DMAX、Maya联合完成的渲染功能。
-
-																			
-																			第九届创意组
-																			2014.9.28				
