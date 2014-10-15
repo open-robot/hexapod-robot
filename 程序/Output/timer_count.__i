@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\USER -I..\FWlib\inc -I..\CMSIS -I "E:\计算机软件\Keil uVision\Keil MDK\ARM\INC" -I "E:\计算机软件\Keil uVision\Keil MDK\ARM\INC\ST\STM32F10x" -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o "..\Output\timer_count.o" --omf_browse "..\Output\timer_count.crf" --depend "..\Output\timer_count.d" "timer_count.c"
